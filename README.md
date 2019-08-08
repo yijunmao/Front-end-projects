@@ -27,13 +27,13 @@ Technical Details:
 
 
 
-
+----------------------------------------------------------------------------
 Overview for Color Game:
 tiny Color guessing game with functionalities of displaying, folding, adding, and deleting your todo items.
 
 
 
-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 How to play with it:
 
 1. click on "NEW COLORS" to randomly create a new set of candidate colors with the RGB value of the correct color shown on the top of screen
