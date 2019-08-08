@@ -3,6 +3,7 @@ pure front-end tiny projects, HTML, CSS, a little bit JS
 
 ---------------------------------------------------------------------------
 Overview for Todo List:
+
 tiny todo list app with functionalities of displaying, folding, adding, and deleting your todo items.
 
 
@@ -29,6 +30,7 @@ Technical Details:
 
 ----------------------------------------------------------------------------
 Overview for Color Game:
+
 tiny Color guessing game with functionalities of displaying, folding, adding, and deleting your todo items.
 
 
