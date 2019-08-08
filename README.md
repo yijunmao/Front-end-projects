@@ -2,12 +2,12 @@
 pure front-end tiny projects, HTML, CSS, a little bit JS
 
 ---------------------------------------------------------------------------
-Overview:
+Overview for Todo List:
 tiny todo list app with functionalities of displaying, folding, adding, and deleting your todo items.
 
 
 
-----------------------------------------------------------------------------
+---------------------------------------------------------------------------
 How to play with it:
 
 1. add an item by type in your to-do item in "Add New Todo"
@@ -17,7 +17,7 @@ How to play with it:
 
 
 
----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------
 Technical Details:
 
 1. CSS styling: linear gradient background, using Google fonts, enable mouse hover effect, using font-awesome
@@ -26,4 +26,16 @@ Technical Details:
 
 
 
-HAVE FUN :)
+
+
+Overview for Color Game:
+tiny Color guessing game with functionalities of displaying, folding, adding, and deleting your todo items.
+
+
+
+----------------------------------------------------------------------------
+How to play with it:
+
+1. click on "NEW COLORS" to randomly create a new set of candidate colors with the RGB value of the correct color shown on the top of screen
+2. you can switch between easy and hard game modes: easy with three colors, hard with six
+3. click on a color to guess. With wrong guess, the clicked one would fade out and a message of "Try Again" would be displayed on the navbar. With correct guess, all the colors would be changed to the correct one. A message of "Correct!" would be displayed. And "PLAY AGAIN?" button would appear.
